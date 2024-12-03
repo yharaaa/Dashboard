@@ -1,4 +1,4 @@
-# Dashboard: Análisis de Datos
+# Dashboard: Análisis de Datos - Trabajo final del curso ASIES
 
 ### Descripción
 Este proyecto es un dashboard interactivo que presenta un análisis detallado sobre temas clave como optimización, análisis de redes, benchmarking y más. Está diseñado para ser intuitivo y visualmente atractivo, utilizando herramientas avanzadas para facilitar la interpretación de datos.
